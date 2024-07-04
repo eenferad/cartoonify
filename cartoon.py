@@ -10,8 +10,7 @@ import sys
 import argparse
 from pytube import YouTube, exceptions
 
-# Erfan ENFERAD
-# give it a video file or link from youtube :D
+# ASCII character set for conversion
 ASCII_CHARS = "@%#*+=-:. "
 
 def resize_image(image, new_width, new_height):
